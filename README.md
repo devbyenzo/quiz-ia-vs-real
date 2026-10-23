@@ -94,4 +94,12 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
+## Capturas de tela
+
+### Tela inicial
+
+![Tela inicial do quiz IA ou Real?](assets/home.png)
+
+
+
 Feito com 🧠 e 🐍 por marcelo 
